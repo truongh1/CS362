@@ -12,9 +12,9 @@ def isLeapYear(year) :
         return False
 
 # ask for input
-year = input("Enter year: ")
+# year = input("Enter year: ")
 
-if (isLeapYear(year)):
-    print(year + " is a leap year.")
-else:
-    print(year + " is not a leap year")
+# if (isLeapYear(year)):
+#     print(year + " is a leap year.")
+# else:
+#     print(year + " is not a leap year")
